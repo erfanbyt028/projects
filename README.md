@@ -1,4 +1,2 @@
-This photo is related to the code above and shows a view of the design and functionality of this page. In this design, HTML structure, CSS styles and JavaScript interactions are used to provide a better user experience.![Screenshot (98)](https://github.com/user-attachments/assets/3854c7d2-1a0d-44b7-8341-1d51caa60152)
-
-
-
+In this repository, you will see my portfolio and projects. These projects include different types of software development, which are written in different languages, html, css, and js. The purpose of creating this collection is to share my experiences and skills in the field of software development and solving various problems.
+You can get ideas about different development and implementation methods by reviewing the code and documentation that comes with each project. Feel free to contact me with any questions or feedback!
