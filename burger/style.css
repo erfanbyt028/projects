@@ -1,0 +1,72 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    direction: rtl;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+header
+{
+    background-color: aquamarine;
+    width: 100%;
+    height: 750px;
+}
+nav
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(150, 5, 5);
+    width: 100%;
+    height: 75px;
+}
+ul
+{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+li
+{
+    width: 175px;
+}
+.h-content
+{
+    background-image: url('./images/hero-bg.jpg');
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.h-content img
+{
+    width: 650px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 35px;
+    margin-right: -100px;
+}
+.right
+{
+    background-image: url('./images/hero-banner-bg.png');
+}
+.h-span
+{
+    margin-bottom:25px ;
+    color: orangered;
+}
+.left
+{
+    font-size: large;
+}
